@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0c133af1-6801-48d8-914f-9c0ee4d3320d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "GamePlazaRes": {
+      "ver": "1.0.3",
+      "uuid": "963b1771-59ce-4792-955a-00f6e4979198",
+      "rawTextureUuid": "0c133af1-6801-48d8-914f-9c0ee4d3320d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 2,
+      "width": 2025,
+      "height": 1288,
+      "rawWidth": 2028,
+      "rawHeight": 1292,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
